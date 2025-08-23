@@ -29,12 +29,6 @@ This project aims to predict clothing prices for an e-commerce platform using va
 9. Final Model Selection
 10. Business Insights and Recommendations
 
-## Key Results
-- **Best Model**: Random Forest Regressor
-- **R² Score**: 0.85 (85% variance explained)
-- **MAE**: €3.21 (average prediction error)
-- **Top Features**: Product model, color, and photography style
-
 ## Requirements
 - Python 3.7+
 - pandas, numpy
